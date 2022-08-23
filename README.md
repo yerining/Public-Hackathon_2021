@@ -3,7 +3,7 @@
 - 위치기반 서비스를 통한 배달음식 공유 안드로이드 앱 개발
 - 실시간 사용자 위치를 구글 앱에 표시 및 Main 화면 개발
 
-![image](https://user-images.githubusercontent.com/78517051/186102487-74797356-efaf-435e-ab62-bf1f2b39e2ea.png)
+<img width="272" alt="image" src="https://user-images.githubusercontent.com/78517051/186102636-8e021fec-657d-486e-b21c-b879db5f486c.png">
 
 <실시간 GPS 서비스 main 화면>
 - 'WEAT'에서 내세우는 핵심 기능은 실시간 GPS 서비스이다.
